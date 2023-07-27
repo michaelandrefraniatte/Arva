@@ -1,0 +1,112 @@
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\font\switch.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\picture\gamepass.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\video\N I N T E N D O S W I T C H 7 . 5.mp4
+https://www.youtube.com/c/JulienChi%C3%A8ze
+notepad
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - A Miracle (Official Audio)-hZ4sIfeG_B8.mp3
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - An Island (Audio)-tF6SiL1vhu8.mp3
+
+
+True
+False
+False
+False
+True
+False
+False
+False
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\font\switch.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\picture\gamepass.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\video\N I N T E N D O S W I T C H 7 . 5.mp4
+https://www.youtube.com/c/JulienChi%C3%A8ze
+notepad
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - A Miracle (Official Audio)-hZ4sIfeG_B8.mp3
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - An Island (Audio)-tF6SiL1vhu8.mp3
+
+
+False
+True
+False
+False
+False
+True
+False
+False
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\font\switch.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\picture\gamepass.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\video\N I N T E N D O S W I T C H 7 . 5.mp4
+https://www.youtube.com/c/JulienChi%C3%A8ze
+notepad
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - A Miracle (Official Audio)-hZ4sIfeG_B8.mp3
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - An Island (Audio)-tF6SiL1vhu8.mp3
+
+
+False
+False
+True
+False
+False
+False
+False
+False
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\font\switch.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\picture\gamepass.jpg
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\video\N I N T E N D O S W I T C H 7 . 5.mp4
+https://www.youtube.com/c/JulienChi%C3%A8ze
+notepad
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - A Miracle (Official Audio)-hZ4sIfeG_B8.mp3
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\song\Chevelle - An Island (Audio)-tF6SiL1vhu8.mp3
+
+
+False
+False
+False
+True
+False
+False
+False
+False
+200
+200
+500
+300
+200
+200
+500
+300
+200
+200
+500
+300
+200
+200
+500
+300
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\pdf\SCD_T_2011_0054_FRANIATTE.pdf
+False
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\pdf\SCD_T_2011_0054_FRANIATTE.pdf
+False
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\pdf\SCD_T_2011_0054_FRANIATTE.pdf
+False
+C:\Users\mic\Documents\GitHub\ARVA\Src\ARVA\ARVA\bin\Release\video-1\Scene-1\pdf\SCD_T_2011_0054_FRANIATTE.pdf
+False
+False
+0
+0
+300
+200
+False
+0
+0
+300
+200
+False
+0
+0
+300
+200
+False
+0
+0
+300
+200
