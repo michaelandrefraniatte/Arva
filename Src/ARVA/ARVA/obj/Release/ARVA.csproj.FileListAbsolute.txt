@@ -24,3 +24,15 @@ C:\Users\micha\Documents\GitHub\ARVA\Src\ARVA\obj\Release\ARVA.csproj.CoreCompil
 C:\Users\micha\Documents\GitHub\ARVA\Src\ARVA\obj\Release\ARVA.csproj.CopyComplete
 C:\Users\micha\Documents\GitHub\ARVA\Src\ARVA\obj\Release\ARVA.exe
 C:\Users\micha\Documents\GitHub\ARVA\Src\ARVA\obj\Release\ARVA.pdb
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\bin\Release\ARVA.exe.config
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\bin\Release\ARVA.exe
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\bin\Release\ARVA.pdb
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.Form1.resources
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.Form2.resources
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.Properties.Resources.resources
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.csproj.CopyComplete
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.exe
+C:\Users\micha\Documents\github\ArvaOfficial\Src\ARVA\ARVA\obj\Release\ARVA.pdb
